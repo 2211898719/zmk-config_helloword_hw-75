@@ -19,7 +19,7 @@ HW-75 由键盘主体 (Keyboard) 与扩展模块 (Dynamic) 组成。详细说明
 * [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard)
 * [ZMK Firmware](https://zmk.dev/)
 
-## 协议
+## 协议11
 
 [MIT License](LICENSE)
 
